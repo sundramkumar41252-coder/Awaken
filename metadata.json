@@ -1,0 +1,6 @@
+{
+  "name": "Awaken",
+  "description": "A premium anime-inspired productivity system featuring daily quests, holographic RPG status window, shadow evolution path, focus sessions, and training calendar chronicle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
